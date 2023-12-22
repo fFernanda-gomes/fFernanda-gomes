@@ -3,7 +3,7 @@
 💻 I'm a Full Stack Development. <br>
 📖 I’m currently learning ReactJs, React Native and Node.js
 
-## Linguagens
+## Programming languages 
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
